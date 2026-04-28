@@ -7,15 +7,16 @@ Here’s a breakdown of the key domains you need to know for the **SY0-701** exa
    1.0 - **Compare and contrast various types of security controls
         - **Categories**                      
           - Technical                            
-          - Managerial                      - Deterrent     - Compensating
-          - Operational                     - Detective     - Directive
-          - Physical                        - Corrective           
+          - Managerial                           
+          - Operational                          
+          - Physical                                 
        - **Control types**                                     
-          - Corrective                      
-          - Preventive                           
-          - Corrective                                 
-          - Deterrent                                
-                                            
+          - Preventive                      
+          - Deterrent                          
+          - Detective                            
+          - Corrective
+          - Compensating  
+          - Directive
      
    - **Social Engineering Attacks**: Phishing, Spear Phishing, Whaling
    - **Malware Types**: Viruses, Trojans, Ransomware
