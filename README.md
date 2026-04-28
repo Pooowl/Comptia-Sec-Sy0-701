@@ -4,7 +4,7 @@
 Here’s a breakdown of the key domains you need to know for the **SY0-701** exam. Each domain has been designed to help you focus your study efforts effectively:
 
 ###1. **General Security Concepts**.⚠️##
-1.0 - **Compare and contrast various types of security controls
+1.0 - **Compare and contrast various types of security controls 
         - **Categories**                      
           - Technical                            
           - Managerial                           
