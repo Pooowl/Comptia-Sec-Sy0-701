@@ -17,7 +17,7 @@ Here’s a breakdown of the key domains you need to know for the **SY0-701** exa
           - Corrective
           - Compensating  
           - Directive
-     
+      
    - **Social Engineering Attacks**: Phishing, Spear Phishing, Whaling
    - **Malware Types**: Viruses, Trojans, Ransomware
    - **Penetration Testing Concepts**
