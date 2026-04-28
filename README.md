@@ -3,9 +3,9 @@
 
 Here’s a breakdown of the key domains you need to know for the **SY0-701** exam. Each domain has been designed to help you focus your study efforts effectively:
 
-<h2 align="center">
+<h3 align="center">
   <span style="color:#ff4d4d;">⚠️ General Security Concepts ⚠️</span>
-</h2>
+</h3>
 
 ---
 
