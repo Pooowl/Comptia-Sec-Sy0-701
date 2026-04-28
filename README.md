@@ -3,20 +3,37 @@
 
 Here’s a breakdown of the key domains you need to know for the **SY0-701** exam. Each domain has been designed to help you focus your study efforts effectively:
 
-###1. **General Security Concepts**.⚠️##
-1.0 - **Compare and contrast various types of security controls 
-       ** - **Categories**                      
-          - Technical                            
-          - Managerial                           
-          - Operational                          
-          - Physical                                 
-       - **Control types**                                     
-          - Preventive                      
-          - Deterrent                          
-          - Detective                            
-          - Corrective
-          - Compensating  
-          - Directive
+<h2 align="center">
+  <span style="color:#ff4d4d;">⚠️ General Security Concepts ⚠️</span>
+</h2>
+
+---
+
+## <span style="color:#4da6ff;">1.0 Compare and Contrast Various Types of Security Controls</span>
+
+### 📂 <span style="color:#ffa64d;">Categories</span>
+
+- <span style="color:#66ccff;"><b>Technical</b></span>  
+- <span style="color:#66ff99;"><b>Managerial</b></span>  
+- <span style="color:#ffcc66;"><b>Operational</b></span>  
+- <span style="color:#ff9999;"><b>Physical</b></span>  
+
+---
+
+### 🛡️ <span style="color:#ffa64d;">Control Types</span>
+
+- <span style="color:#99e6ff;"><b>Preventive</b></span>  
+- <span style="color:#ffb366;"><b>Deterrent</b></span>  
+- <span style="color:#66ffcc;"><b>Detective</b></span>  
+- <span style="color:#ff8080;"><b>Corrective</b></span>  
+- <span style="color:#ccccff;"><b>Compensating</b></span>  
+- <span style="color:#ffff99;"><b>Directive</b></span>  
+
+---
+
+<p align="center">
+  <span style="color:gray;">📘 Organized for easy learning and quick review</span>
+</p>
       
    - **Social Engineering Attacks**: Phishing, Spear Phishing, Whaling
    - **Malware Types**: Viruses, Trojans, Ransomware
