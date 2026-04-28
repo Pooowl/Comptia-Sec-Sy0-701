@@ -28,11 +28,90 @@ Here’s a breakdown of the key domains you need to know for the **SY0-701** exa
 - <span style="color:#ff8080;"><b>Corrective</b></span>  
 - <span style="color:#ccccff;"><b>Compensating</b></span>  
 - <span style="color:#ffff99;"><b>Directive</b></span>  
+## <span style="color:#4da6ff;">1.1 Fundamental Security Concepts</span>
+
+---
+
+### 🔐 <span style="color:#ff6666;">CIA Triad</span>
+
+- <span style="color:#ff9999;"><b>Confidentiality</b></span> – Protect data from unauthorized access  
+- <span style="color:#ffcc99;"><b>Integrity</b></span> – Ensure data accuracy and consistency  
+- <span style="color:#99ffcc;"><b>Availability</b></span> – Ensure systems/data are accessible when needed  
+
+---
+
+### 🧾 <span style="color:#ffa64d;">Non-Repudiation</span>
+
+- Ensures that actions or transactions cannot be denied (e.g., digital signatures)
+
+---
+
+### 🔑 <span style="color:#66ccff;">Authentication, Authorization, and Accounting (AAA)</span>
+
+- <b>Authentication</b> – Verifying identity  
+  - Authenticating people  
+  - Authenticating systems  
+
+- <b>Authorization</b> – Granting access rights  
+  - Authorization models  
+
+- <b>Accounting</b> – Tracking user activity and actions  
+
+---
+
+### 📊 <span style="color:#ccccff;">Gap Analysis</span>
+
+- Identifies differences between current security state and desired goals  
+
+---
+
+### 🛡️ <span style="color:#66ffcc;">Zero Trust</span>
+
+> "Never trust, always verify"
+
+#### ⚙️ Control Plane
+- Adaptive identity  
+- Threat scope reduction  
+- Policy-driven access control  
+- Policy Administrator  
+- Policy Engine  
+
+#### 💾 Data Plane
+- Implicit trust zones  
+- Subject/System  
+- Policy Enforcement Point  
+
+---
+
+### 🏢 <span style="color:#ffcc66;">Physical Security</span>
+
+- Bollards  
+- Access control vestibule  
+- Fencing  
+- Video surveillance  
+- Security guard  
+- Access badge  
+- Lighting  
+
+#### 📡 Sensors
+- Infrared  
+- Pressure  
+- Microwave  
+- Ultrasonic  
+
+---
+
+### 🎭 <span style="color:#ff99cc;">Deception & Disruption Technology</span>
+
+- Honeypot  
+- Honeynet  
+- Honeyfile  
+- Honeytoken  
 
 ---
 
 <p align="center">
-  <span style="color:gray;">📘 Organized for easy learning and quick review</span>
+  <span style="color:gray;">✨ Structured for quick study and easy recall</span>
 </p>
       
    - **Social Engineering Attacks**: Phishing, Spear Phishing, Whaling
