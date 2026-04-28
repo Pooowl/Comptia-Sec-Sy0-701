@@ -5,15 +5,16 @@ Here’s a breakdown of the key domains you need to know for the **SY0-701** exa
 
 ###1. **General Security Concepts**.⚠️##
    1.0 - **Compare and contrast various types of security controls
-        - Categories                      - Control types
-          - Technical                       - Preventive    - Corrective  
+        - Categories                      
+          - Technical                            
           - Managerial                      - Deterrent     - Compensating
           - Operational                     - Detective     - Directive
           - Physical                        - Corrective           
-                                            
-                                            
-                                            
-                                            
+       - Control types                                     
+          - Corrective                      
+          - Preventive                           
+          - Corrective                                 
+          - Deterrent                                
                                             
      
    - **Social Engineering Attacks**: Phishing, Spear Phishing, Whaling
