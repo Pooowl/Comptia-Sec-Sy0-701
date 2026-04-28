@@ -5,7 +5,7 @@ Here’s a breakdown of the key domains you need to know for the **SY0-701** exa
 
 ###1. **General Security Concepts**.⚠️##
 1.0 - **Compare and contrast various types of security controls 
-        - **Categories**                      
+       ** - **Categories**                      
           - Technical                            
           - Managerial                           
           - Operational                          
