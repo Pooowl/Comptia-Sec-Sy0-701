@@ -1,10 +1,9 @@
-</> Markdown
 # CompTIA Security+ SY0-701 Exam Topics 🛡️
 ## Exam Objectives 🎯
 
 Here’s a breakdown of the key domains you need to know for the **SY0-701** exam. Each domain has been designed to help you focus your study efforts effectively:
 
-###  ⚠️<span style="color:purple; font-size:20px; font-weight:bold;">1. **General Security Concepts**.</span>
+###1. **General Security Concepts**.⚠️##
    1.0 - **Compare and contrast various types of security controls
         - Categories                      - Control types
           - Technical                       - Preventive    - Corrective  
